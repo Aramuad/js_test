@@ -1,12 +1,12 @@
-#test {
+#tests {
   display: flex;
   justify-content: space-around;
 }
 
 #passed {
-  color: #00FF00;
+  color: 0F0;
 }
 
 #failed {
-  color: #F00;
+color: F00;
 }
